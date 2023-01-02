@@ -1,2 +1,2 @@
-# openCV_healthcare
-Image processing
+# Simple Image Processing
+Using popular python library 'OpenCV' for image processing
