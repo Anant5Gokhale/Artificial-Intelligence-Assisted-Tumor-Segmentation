@@ -1,13 +1,13 @@
 # Artificial Intelligence Assisted Tumor Segmentation
-### with Segment Anything Model and Computer Vision Methods
-Introduction to Computer Vision with 'opencv-python'/
-  +--gitempty
-  +--openCV_basics
-  +--OpenCV_basics1-7_review.ipynb
-  +--00006585_007.png
+#### Segment Anything Model and Computer Vision Methods
+Introduction to Computer Vision with 'opencv-python'/ <br>
+  +--gitempty <br>
+  +--openCV_basics <br>
+  +--OpenCV_basics1-7_review.ipynb <br>
+  +--00006585_007.png <br>
 
-AI segmentation method code/
-  +--readme-ai-segmentation-code
-  +--draw4.py
-  +--draw8.ipynb
+AI segmentation method code/ <br>
+  +--readme-ai-segmentation-code <br>
+  +--draw4.py <br>
+  +--draw8.ipynb <br>
   
