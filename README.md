@@ -19,4 +19,4 @@ AI segmentation method code/ <br>
   
  ![Image 1](https://drive.google.com/uc?id=1pBP8cRUClFpmC9_fXXpOBV_UNvd5b_rw) ![Image 2](https://drive.google.com/uc?id=1t1AQPGbp35pg559giGX2CEpWltME1hb3)
 
- ![Image 1](https://drive.google.com/uc?id=1h3zcMGiWV0Y9FGW8wXld_sjeEEQDOWPg) ![Image 2](https://drive.google.com/uc?id=1T3VrnYUyI9mN7AxGOUuCLT6FKv9Vnugj) 
+ ![Image 1](https://drive.google.com/uc?id=1aiEnT6KdfLj556S89k85U7EGyB7H3EKT) ![Image 2](https://drive.google.com/uc?id=1ZHrCHStYGPJp6XkSPg7VPo4xuwO3q954) 
